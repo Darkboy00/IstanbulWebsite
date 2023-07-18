@@ -1,0 +1,16 @@
+@keyframes text1
+{
+    0%
+    {
+        opacity: 0.1;
+        text-shadow: 0 0 10px white, 0 0 20px white, 0 0 30px red, 0 0 40px black, 0 0 50px red, 0 0 60px black, 0 0 70px red;
+    }
+    50%
+    {
+        opacity: 0.5;
+    }
+    100%
+    {
+        opacity: 1;
+    }
+}
